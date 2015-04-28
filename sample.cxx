@@ -1,0 +1,6 @@
+#ifndef LARLITEAPP_NCSINGLEPI0_SAMPLE_CXX
+#define LARLITEAPP_NCSINGLEPI0_SAMPLE_CXX
+
+#include "sample.h"
+
+#endif
